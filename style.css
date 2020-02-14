@@ -88,6 +88,7 @@ body{
     text-shadow: -2px 1px #000000;
 }
 
+
 /****SECTION DE GAUCHE*****/
 
 .gauche {
@@ -162,16 +163,18 @@ body{
     margin: 0px;
 }
 
-.down {
-    margin-top: 15px;
-    margin-left: 150px;
-}
-.down a {
-    text-decoration: none;
-    color: #ff0000;
+
+.pdf {
+    margin-top: 30px;
 }
 
-.down a:hover{
+.pdf a {
+    text-decoration: none;
+    color: #ff0000;
+    margin-left: 221px;
+}
+
+.pdf a:hover{
     color: #ff0000;
 }
 
