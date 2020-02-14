@@ -166,12 +166,12 @@ body{
 
 .version {
     margin-top: 30px;
-    margin-left: 50px;
 }
 
 .version a {
     text-decoration: none;
     color: #ff0000;
+    margin-left: 50px;
 }
 
 .version a:hover{
