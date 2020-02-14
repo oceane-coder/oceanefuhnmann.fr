@@ -171,6 +171,7 @@ body{
 .pdf a {
     text-decoration: none;
     color: #ff0000;
+    margin-left: 120px;
 }
 
 .pdf a:hover{
