@@ -164,11 +164,11 @@ body{
 
 .pdf {
     margin-top: 30px;
+    margin-left: 150px;
 }
 .pdf a {
     text-decoration: none;
     color: #ff0000;
-    margin-left: 150px;
 }
 
 .pdf a:hover{
