@@ -162,6 +162,18 @@ body{
     margin: 0px;
 }
 
+.pdf {
+    margin-top: 30px;
+}
+.pdf a {
+    text-decoration: none;
+    color: #ff0000;
+    margin-left: 221px;
+}
+
+.pdf a:hover{
+    color: #ff0000;
+}
 
 /******DROITE******/
 
