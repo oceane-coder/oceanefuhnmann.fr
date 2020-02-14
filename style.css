@@ -162,16 +162,16 @@ body{
     margin: 0px;
 }
 
-.pdf {
+.down {
     margin-top: 15px;
     margin-left: 150px;
 }
-.pdf a {
+.down a {
     text-decoration: none;
     color: #ff0000;
 }
 
-.pdf a:hover{
+.down a:hover{
     color: #ff0000;
 }
 
