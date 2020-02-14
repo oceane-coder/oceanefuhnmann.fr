@@ -165,13 +165,13 @@ body{
 
 
 .version {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .version a {
     text-decoration: none;
     color: #ff0000;
-    margin-left: 130px;
+    margin-left: 150px;
 }
 
 .version a:hover{
