@@ -164,17 +164,17 @@ body{
 }
 
 
-.pdf {
+.version {
     margin-top: 30px;
     margin-left: 50px;
 }
 
-.pdf a {
+.version a {
     text-decoration: none;
     color: #ff0000;
 }
 
-.pdf a:hover{
+.version a:hover{
     color: #ff0000;
 }
 
