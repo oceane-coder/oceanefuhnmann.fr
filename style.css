@@ -171,7 +171,7 @@ body{
 .version a {
     text-decoration: none;
     color: #ff0000;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 .version a:hover{
