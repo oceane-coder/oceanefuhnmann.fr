@@ -170,18 +170,18 @@ body{
 
 .version a {
     text-decoration: none;
-    color: #fff
-    margin-left: 219px;
+    color: #fff;
 }
 
 .version a:hover{
     text-decoration: none;
-    color: #645F5D;
+    color: #fff;
 }
 
 .btn {
     width: auto;
     height: auto;
+    margin-left: 219px;
 }
 
 /******DROITE******/
