@@ -172,11 +172,11 @@ body{
 
 .version a {
     text-decoration: none;
-    color: #fff;
+    color: #ff0000;
 }
 
 .version a:hover{
-    color: #fff;
+    color: #ff0000;
 }
 
 /******DROITE******/
