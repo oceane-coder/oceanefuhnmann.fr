@@ -181,8 +181,7 @@ body{
 .btn {
     width: auto;
     height: auto;
-    background-color: ##FF0000;
-    
+    background: #FF0000;
 }
 
 /******DROITE******/
