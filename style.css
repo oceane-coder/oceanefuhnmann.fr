@@ -175,13 +175,13 @@ body{
 
 .version a:hover{
     text-decoration: none;
-    color: #fff;
+    color: #000;
 }
 
 button{
     width: auto;
     height: auto;
-    background: #FF0000;
+    color: #FF0000;
 }
 
 /******DROITE******/
